@@ -1,0 +1,23 @@
+.number
+{
+    border:1px solid black;
+    margin:50px 480px;
+    padding: 6px;
+}
+#box
+{
+    border: 1px solid black;
+    border-radius:15px;
+    background-color:rgb(112, 7, 7) ;
+    text-align:center;
+
+}
+.head
+{
+    border-style:outset;
+}
+.photos
+{
+    height: 100px;
+    width:100px;
+}
