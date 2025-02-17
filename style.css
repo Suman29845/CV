@@ -21,3 +21,38 @@
     height: 100px;
     width:100px;
 }
+ul{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    background-color: #8b3737;
+    padding: 8px;
+    margin:0px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+button{
+    background-color: rgb(59, 59, 239);
+    border: none;
+    border-radius: 5px;
+    padding: 4px 8px;
+    color:#ffffff;
+    cursor:pointer;
+
+}
+ul a:hover{
+    color:blue;
+    background-color:rgb(240, 242, 240);
+}
+button:hover{
+    color:blue;
+    background-color:rgb(255, 255, 255);
+}
+.navbar
+{
+    background-color: #000000;
+}
